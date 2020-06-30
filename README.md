@@ -32,4 +32,8 @@ List 변수에는 첫번째 원소(맨 아래)의 주소값이 저장되므로 �
 바로 구할 수 있음. 이 점을 활용해서 List로 Stack을 구현할 수 있음.<br>
 List를 사용하여 원소를 삽입(push), 삭제(pop) 작업을 수행했을 때는 시간복잡도는 O(1)이다.<br>
 
+# 04. Stack 구현하기 - Signly linked list
+
+Linked list의 head는 Stack의 가장 윗 부분을 가리킨다.<br>
+
 > https://daimhada.tistory.com/72?category=820522 - 개발하는 다임하게님 글 참고
